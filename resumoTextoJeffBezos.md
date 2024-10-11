@@ -1,6 +1,6 @@
-#Resumo do Artigo
+# Resumo do Artigo
 
-##principais observações
+## principais observações
 
     * A amazon aind mantem a mesma mentalidade de uma startup mesmo ja sendo consolidado no mercado e uma das maiores, jeff considera isso um diferença na Amazon
 
